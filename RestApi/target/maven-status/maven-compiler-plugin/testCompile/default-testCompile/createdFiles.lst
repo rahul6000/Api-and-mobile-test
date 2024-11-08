@@ -1,0 +1,10 @@
+Mobile/Config/Base.class
+API/Payload/User.class
+API/Endpoints/UserEndPoints.class
+API/Config/Config.class
+API/Payload/Store.class
+API/Utilities/ExtentReportManager.class
+API/Test/UserTests.class
+API/Endpoints/StoreEndPoints.class
+API/Config/Endpoints.class
+API/Test/StoreTests.class
